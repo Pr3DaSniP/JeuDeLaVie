@@ -58,8 +58,6 @@ private:
 	}
 
 public:
-	int i = 0;
-
 	JeuDeLaVie()
 	{
 		m_sAppName = L"Game Life";
