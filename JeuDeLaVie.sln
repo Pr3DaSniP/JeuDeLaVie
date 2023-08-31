@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JeuDeLaVie", "JeuDeLaVie\JeuDeLaVie.vcxproj", "{4CA16AA6-1A08-4234-85C5-F235D481E7B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA16AA6-1A08-4234-85C5-F235D481E7B5}.Debug|x64.ActiveCfg = Debug|x64
+		{4CA16AA6-1A08-4234-85C5-F235D481E7B5}.Debug|x64.Build.0 = Debug|x64
+		{4CA16AA6-1A08-4234-85C5-F235D481E7B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CA16AA6-1A08-4234-85C5-F235D481E7B5}.Debug|x86.Build.0 = Debug|Win32
+		{4CA16AA6-1A08-4234-85C5-F235D481E7B5}.Release|x64.ActiveCfg = Release|x64
+		{4CA16AA6-1A08-4234-85C5-F235D481E7B5}.Release|x64.Build.0 = Release|x64
+		{4CA16AA6-1A08-4234-85C5-F235D481E7B5}.Release|x86.ActiveCfg = Release|Win32
+		{4CA16AA6-1A08-4234-85C5-F235D481E7B5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4C81E8-CF44-4F97-ACFB-AB2427C3C4C3}
+	EndGlobalSection
+EndGlobal
